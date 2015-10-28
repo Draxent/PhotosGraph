@@ -30,16 +30,16 @@ In the *"Images"* folder, you can find some images ready to use.
 
 ##Keyboard
 Besides the botton on the controller, "the view" that control the reference system in which we are, can be controlled by keyboard
-|   Key  |       Description       |
-|:--------:|:-----------------------:|
-|   Enter   |	Start / Stop animation                 |
-|   A    |	Move view/node westward            |
-|   W   |	Move view/node eastwards            |
-|   D   |	Move view/node northwards          |
-|  S  |	Move view/node southwards             |
-|   Z    |	Zoom-in    |
-|   X    |	Zoom-out           |
-|   Q    |	Rotate counterclockwise           |
-|   E    |	Rotate clockwise           |
+| Key | Description |
+|:-----:|:----------------------:|
+| Enter | Start / Stop animation |
+| A | Move view/node westward |
+| W | Move view/node eastwards |
+| D | Move view/node northwards |
+| S | Move view/node southwards |
+| Z | Zoom-in |
+| X | Zoom-out |
+| Q | Rotate counterclockwise |
+| E | Rotate clockwise |
 
 	
