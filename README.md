@@ -30,6 +30,7 @@ In the *"Images"* folder, you can find some images ready to use.
 
 ##Keyboard
 Besides the botton on the controller, "the view" that control the reference system in which we are, can be controlled by keyboard
+
 | Key | Description |
 |:-----:|:----------------------:|
 | Enter | Start / Stop animation |
