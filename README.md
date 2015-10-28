@@ -30,27 +30,16 @@ In the *"Images"* folder, you can find some images ready to use.
 
 ##Keyboard
 Besides the botton on the controller, "the view" that control the reference system in which we are, can be controlled by keyboard
-|  Key  |        Description        |
-|:-----:|:-------------------------:|
-| Enter |   Start / Stop animation  |
-|   A   | Move view/node westward   |
-|   W   | Move view/node eastwards  |
-|   D   | Move view/node northwards |
-|   S   | Move view/node southwards |
-|   Z   |          Zoom-in          |
-|   X   |          Zoom-out         |
-|   Q   | Rotate counterclockwise   |
-|   E   |     Rotate clockwise      |
-
-##Supported Types
-|   Types  |       Description       |
+|   Key  |       Description       |
 |:--------:|:-----------------------:|
-|   void   |	No type                 |
-|   int    |	Type integer            |
-|   bool   |	Type boolean            |
-|   char   |	Type character          |
-|  string  |	Type string             |
-|   url    |	Type network address    |
-|   fun    |	Type function           |
+|   Enter   |	Start / Stop animation                 |
+|   A    |	Move view/node westward            |
+|   W   |	Move view/node eastwards            |
+|   D   |	Move view/node northwards          |
+|  S  |	Move view/node southwards             |
+|   Z    |	Zoom-in    |
+|   X    |	Zoom-out           |
+|   Q    |	Rotate counterclockwise           |
+|   E    |	Rotate clockwise           |
 
 	
