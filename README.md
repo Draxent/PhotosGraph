@@ -9,10 +9,12 @@ Once the procedure is complete, you can select the nodes and drag them in a new 
  Then, you can select the arc and delete it pressing the key Canc or add a label to it pressing the key *T*. If the latter operation was performed, you can click the text area in order to edit the arc's label. It will appear a TextBox on the top-right corner of the screen. When you edit the text inside it, click any other point of the screen to see the change.
 
 When the graph is complete and you are satisfied with the nodes' locations, you can start the animation pressing the key *PLAY* on the controller. <br/>
-In this way, you change from the *"creative mode"* to the *"animation mode"*. <br/>
+In this way, you change from the *"creative mode"* to the *"animation mode"*.
+
 In this phase, all the arcs are considered like uncompressed springs. The only action allowed is to move around the nodes.
 When you do it, you will compress or stretch the springs, so the system will react and you are able to see the beautiful game of fluctuations.The fluctuations are damped by a friction coefficient, that will cause the stop of the system after awhile, and changing automatically to the *"creative mode"*. The system will stop when the speed is imperceptible to the eye. 
-In order to do that, I have chosen to calculate the average speed of a node (on a total of 100 animations) and compare it with a small value. If the averege is lower of this value, the system will stop. <br/>
+In order to do that, I have chosen to calculate the average speed of a node (on a total of 100 animations) and compare it with a small value. If the averege is lower of this value, the system will stop.
+
 During the animation, you can move the nodes several times. The speeds will be updated for every edit to the system.
 At any time, you can press the key *STOP* on the controller in oreder to block the system.<br/>
 Now, all the arcs will be considered again as uncompressed springs.
@@ -39,4 +41,16 @@ Besides the botton on the controller, "the view" that control the reference syst
 |   X   |          Zoom-out         |
 |   Q   | Rotate counterclockwise   |
 |   E   |     Rotate clockwise      |
+
+##Supported Types
+|   Types  |       Description       |
+|:--------:|:-----------------------:|
+|   void   |	No type                 |
+|   int    |	Type integer            |
+|   bool   |	Type boolean            |
+|   char   |	Type character          |
+|  string  |	Type string             |
+|   url    |	Type network address    |
+|   fun    |	Type function           |
+
 	
