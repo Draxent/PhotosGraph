@@ -1,0 +1,50 @@
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe.config
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.XML
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.pdb
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.dll
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.xml
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.fsprojResolveAssemblyReference.cache
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.exe
+C:\Users\Federico\Dropbox\Save Windows\Università\IUM\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.pdb
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe.config
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.XML
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.pdb
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.dll
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.xml
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.fsprojResolveAssemblyReference.cache
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.exe
+C:\Users\Federico\Dropbox\University\Triennale\IUM\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.pdb
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe.config
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.XML
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.pdb
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.dll
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.xml
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.fsprojResolveAssemblyReference.cache
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.exe
+C:\Users\Federico\Dropbox\University\Triennale\Interfaccia Uomo Macchina (IUM)\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.pdb
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe.config
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.XML
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.exe
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\PhotosGraph.pdb
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.dll
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\FSharp.Core.xml
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.fsprojResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.exe
+C:\Users\Federico\Desktop\MidTerm-2013 Federico Conte\PhotosGraph\obj\Debug\PhotosGraph.pdb
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\bin\Debug\PhotosGraph.exe.config
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\bin\Debug\PhotosGraph.XML
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\bin\Debug\PhotosGraph.exe
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\bin\Debug\PhotosGraph.pdb
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\bin\Debug\FSharp.Core.dll
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\bin\Debug\FSharp.Core.xml
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\obj\Debug\PhotosGraph.fsprojResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\obj\Debug\PhotosGraph.exe
+C:\Users\Federico\Desktop\MidTerm\PhotosGraph\obj\Debug\PhotosGraph.pdb
