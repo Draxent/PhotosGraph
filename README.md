@@ -3,8 +3,7 @@ Graph of photos with elastic arcs
 ====
 
 The system allows to create a graph composed of :
- - **Nodes:** You can create them using the left click. You can adjust the node's radius holding down the mouse and dragging it around. When you release the mouse, you need to choose an image for the node, otherwise it will be deleted. <br/>
-Once the procedure is complete, you can select the nodes and drag them in a new position or delete them pressing the key <b><i>Canc</i></b>.
+ - **Nodes:** You can create them using the left click. You can adjust the node's radius holding down the mouse and dragging it around. When you release the mouse, you need to choose an image for the node, otherwise it will be deleted. Once the procedure is complete, you can select the nodes and drag them in a new position or delete them pressing the key <b><i>Canc</i></b>.
  - **Arcs:** You can create them using the right click on one node and dragging onto another node. <br/>
  Then, you can select the arc and delete it pressing the key <b><i>Canc</i></b> or add a label to it pressing the key <b><i>T</i></b>. If the latter operation was performed, you can click the text area in order to edit the arc's label. It will appear a TextBox on the top-right corner of the screen. When you edit the text inside it, click any other point of the screen to see the change.
 
@@ -28,6 +27,8 @@ The WeakReference are not protected by the Garbage Collection (GC), so if the sy
 Since we need them, this time they are StrongReference (i.e. normal variables protected by the GC).
 	
 In the *"Images"* folder, you can find some images ready to use.
+
+The file <a href="https://github.com/Draxent/PhotosGraph/blob/master/usage_example.mp4">*usage_example.mp4*</a> shows an example of usage of the program.
 
 ##Keyboard
 Besides the botton on the controller, *"the view"* that control the reference system in which we are, can be controlled by keyboard
