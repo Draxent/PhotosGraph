@@ -28,7 +28,7 @@ Since we need them, this time they are StrongReference (i.e. normal variables pr
 	
 In the *"Images"* folder, you can find some images ready to use.
 
-The file <a href="https://github.com/Draxent/PhotosGraph/blob/master/usage_example.mp4">*usage_example.mp4*</a> shows an example of usage of the program.
+The file <a href="./usage_example.mp4">*usage_example.mp4*</a> shows an example of usage of the program.
 
 ##Keyboard
 Besides the botton on the controller, *"the view"* that control the reference system in which we are, can be controlled by keyboard
