@@ -45,4 +45,9 @@ Besides the botton on the controller, *"the view"* that control the reference sy
 | Q | Rotate counterclockwise |
 | E | Rotate clockwise |
 
-	
+###License
+The MIT License (MIT)
+
+Copyright (c) 2015 Federico Conte
+
+http://opensource.org/licenses/MIT
