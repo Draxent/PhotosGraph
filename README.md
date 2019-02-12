@@ -30,7 +30,7 @@ In the *"Images"* folder, you can find some images ready to use.
 
 The file <a href="./usage_example.mp4">*usage_example.mp4*</a> shows an example of usage of the program.
 
-##Keyboard
+## Keyboard
 Besides the botton on the controller, *"the view"* that control the reference system in which we are, can be controlled by keyboard
 
 | Key | Description |
@@ -45,7 +45,7 @@ Besides the botton on the controller, *"the view"* that control the reference sy
 | Q | Rotate counterclockwise |
 | E | Rotate clockwise |
 
-###License
+### License
 The MIT License (MIT)
 
 Copyright (c) 2015 Federico Conte
